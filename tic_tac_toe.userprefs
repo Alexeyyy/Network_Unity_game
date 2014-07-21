@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NewServerScripts\network_menu_script.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NewServerScripts\network_menu_script.cs" Line="89" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\GUIstyles.cs" Line="14" Column="16" />
+      <File FileName="Assets\Scripts\NewServerScripts\PlayerScript.cs" Line="171" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\Menu\MenuSlider.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\NewServerScripts\Menu\BtnLoadScene.cs" Line="9" Column="29" />
+      <File FileName="Assets\Scripts\NewServerScripts\MoveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\ShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\WeaponScript.cs" Line="27" Column="16" />
+      <File FileName="Assets\Scripts\NewServerScripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\LaserBulletsStorage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\GalaxyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\FirstAidBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewServerScripts\BoulderScript.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\NewServerScripts\SphereScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
